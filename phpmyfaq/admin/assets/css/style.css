@@ -484,6 +484,10 @@ p {
   font-weight: 200;
   line-height: 1.4;
 }
+.jqstooltip {
+  min-height:23px;
+  min-width: 95px
+  }
 @media (min-width: 768px) {
   .lead {
     font-size: 22.5px;
